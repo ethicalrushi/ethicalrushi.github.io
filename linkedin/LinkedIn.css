@@ -15,9 +15,9 @@ input{
 }
 
 .container{
+	margin: auto;
 	background: #434649;
-	margin-left: 28%;
-	margin-right: 28%;
+	width: 25%;
 	padding: 10px;
 
 
