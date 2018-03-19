@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	font-family: arial;
+	color: #FFFFFF;
+	background: #283E4A;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+input{
+	width: 60%;
+	padding: 12px 20px;
+	border-radius: 5px;
+}
+
+.container{
+	background: #434649;
+	margin-left: 28%;
+	margin-right: 28%;
+	padding: 10px;
+
+
+}
+.submit{
+	background: #0077B5;
+	border-color: #0077B5;
+	color: #FFFFFF;
+	width: 60%;
+	padding: 4px;
+	font-size: 140%;
+	border-radius: 5px;
+	margin-bottom: 4px;
+}
+.submit:hover, .submit:active{
+	background: #0069CC;
+	border-color: #0069CC;
+	cursor: pointer;
+}
+#in{
+	background: #0077B5;
+}
+#terms{
+	color: #AAAAAA;
+
+}
+
+
