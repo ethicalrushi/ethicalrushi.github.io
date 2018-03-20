@@ -47,11 +47,11 @@ input{
 @media (max-width: 600px)
 {
 	.container{
-		min-width: 100%;
+		min-width: 90%;
 
 	}
 	input{
-		min-width: 90%;
+		min-width: 80%;
 	}
 }
 
